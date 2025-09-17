@@ -61,4 +61,16 @@ We ❤️ contributions! Here’s how you can join the journey:
    ```bash
    git clone https://github.com/ios-labs/SplitBuddy.git
 
+3. **Open in Xcode** (Latest Stable Version recommended)
+
+4. Pick an issue from our Issue Tracker or create a new one.
+
+5. Create a feature branch and push your changes:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    git commit -m "Add: your feature"
+    git push origin feature/your-feature-name 
+
+6. Submit a PR 🚀
 
